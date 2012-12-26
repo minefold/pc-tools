@@ -2,7 +2,7 @@
 
 # restore-dir <remote-file>
 
-# restore-dir https://minefold-production.s3.amazonaws.com/worlds/501042431376850800000031/world-data.incremental.tar
+# restore-dir https://bucket.s3.amazonaws.com/file.tar.lzo
 
 # will download and extract archive to current directory based on file extension
 # handles tar|tar.gz|tar.lzo

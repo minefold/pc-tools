@@ -2,6 +2,8 @@
 
 # encoding: UTF-8
 
+# wraps up curl and uses environment variables to connect
+
 require 'optparse'
 require 'uri'
 require 'time'
